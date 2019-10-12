@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pigpio": "^2.0.1",
+    "rxjs": "^6.5.3"
+  }
+}
